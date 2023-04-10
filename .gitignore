@@ -22,7 +22,7 @@ local_env.yml
 /tmp/pids/*
 !/tmp/pids/
 !/tmp/pids/.keep
-
+!/tmp/pids/.keep
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
